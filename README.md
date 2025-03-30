@@ -1,4 +1,4 @@
-﻿# Enigma-2025-BTOWN-AGAIN
+﻿# Enigma-2025
 To run the project locally after cloning it from GitHub, follow these steps:
 
 Prerequisites
